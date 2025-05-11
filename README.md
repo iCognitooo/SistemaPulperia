@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Cognixion Studio Sistema Pulpería</h1>
   <p>
-    <b>Un sistema personal, modular y completo desarrollado con C# y Python v14</b>
+    <b>Un sistema personal, modular y completo desarrollado con C# y Python v3.11</b>
   </p>
   <p>
     <img src="https://img.shields.io/badge/.NET-8.0-blueviolet?logo=.net&logoColor=white" alt=".NET Version">
