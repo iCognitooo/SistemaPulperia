@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Cognixion Studio Sistema Pulpería</h1>
+  <h1>Sistema Pulpería</h1>
   <p>
     <b>Un sistema personal, modular y completo desarrollado con C# y Python v3.11</b>
   </p>
