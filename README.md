@@ -93,13 +93,13 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](L
 Si necesitas ayuda o tienes alguna pregunta:
 
 - Abre un issue en este repositorio
-- Únete a nuestro [servidor de Discord](https://discord.gg/cognixion)
-- Contacta con el desarrollador en Discord: `tu_usuario#0000`
+- Únete a nuestro [servidor de Discord](https://discord.com/invite/VJxGnpKra7)
+- Contacta con el desarrollador en Discord: `icognitoo.dll`
 
 ## 🙏 Agradecimientos
 
-- [discord.js](https://discord.js.org/) por proporcionar una excelente biblioteca
-- [Node.js](https://nodejs.org/) por el entorno de ejecución
+- [Python](https://www.python.org/) por proporcionar una excelente biblioteca
+- [C#](https://github.com/PacktPublishing/C-sharp-Basics-for-Absolute-Beginners-in-C-Sharp-and-dot-NET) por el entorno de ejecución
 - A todos los contribuidores y usuarios del bot
 
 ---
@@ -107,8 +107,8 @@ Si necesitas ayuda o tienes alguna pregunta:
 <div align="center">
   <p>Desarrollado con ❤️ por Cognixion Studio</p>
   <p>
-    <a href="https://discord.gg/cognixion">Discord</a> •
-    <a href="https://github.com/tu-usuario">GitHub</a> •
-    <a href="https://cognixion.com">Website</a>
+    <a href="https://discord.com/invite/VJxGnpKra7">Discord</a> •
+    <a href="https://github.com/icognitooo">GitHub</a> •
+    <a href="https://bloktica.club">Website</a>
   </p>
 </div>
